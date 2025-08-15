@@ -61,3 +61,18 @@ body {
     color: black;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.go7 {
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.come3 {
+    display: block;
+    margin: 0 auto;
+    width: 65%;
+    height: auto;
+    border-radius: 22px;
+}
